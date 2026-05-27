@@ -23,7 +23,7 @@ print(numbers[1])
 
 print(len(numbers))
 
-#set Example
+# Set Example
 
 fruits = {"apple", "banana", "mango"}
 
